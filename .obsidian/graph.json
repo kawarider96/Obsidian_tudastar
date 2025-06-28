@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:DEV/PostgreeSQL  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:DEV/GIT  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:DEV/Patterns  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:DEV/OOP  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:DEV/Algoritmusok  ",
+      "color": {
+        "a": 1,
+        "rgb": 3223274
+      }
+    },
+    {
+      "query": "path:DEV/Adatszerkezetek  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1,
+  "nodeSizeMultiplier": 1.171875,
+  "lineSizeMultiplier": 1.8609375,
+  "collapse-forces": false,
+  "centerStrength": 0.557291666666667,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 165,
+  "scale": 0.258838656218175,
+  "close": true
+}
