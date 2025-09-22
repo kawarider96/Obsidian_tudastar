@@ -1,6 +1,8 @@
-# Abstract Factory pattern
+---
+cover: "[[abstract_factory_cover.png]]"
+---
 
-Több kapcsolódó objektumcsalád létrehozása úgy, hogy ne kelljen konkrét osztályokra hivatkoznod.
+Több kapcsolódó objektumcsalád létrehozása úgy, hogy ne kelljen konkrét osztályokra hivatkoznod
 
 ## Mikor használd?
 

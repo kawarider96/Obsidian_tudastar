@@ -1,52 +1,59 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "path:Math  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:DEV/PostgreeSQL  ",
+      "query": "path:INFO/PostgreeSQL  ",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "path:DEV/GIT  ",
+      "query": "path:INFO/GIT  ",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "path:DEV/Patterns  ",
+      "query": "path:INFO/Patterns  ",
       "color": {
         "a": 1,
         "rgb": 5431378
       }
     },
     {
-      "query": "path:DEV/OOP  ",
+      "query": "path:INFO/OOP  ",
       "color": {
         "a": 1,
         "rgb": 5431473
       }
     },
     {
-      "query": "path:DEV/Algoritmusok  ",
+      "query": "path:INFO/Algoritmusok  ",
       "color": {
         "a": 1,
         "rgb": 3223274
       }
     },
     {
-      "query": "path:DEV/Adatszerkezetek  ",
+      "query": "path:INFO/Adatszerkezetek  ",
       "color": {
         "a": 1,
         "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:Math ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
       }
     }
   ],
@@ -60,6 +67,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 165,
-  "scale": 0.258838656218175,
-  "close": true
+  "scale": 1.0000000000001013,
+  "close": false
 }

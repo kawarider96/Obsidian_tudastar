@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"72e87719fc90d711","x":660,"y":-860,"width":1100,"height":1360,"type":"file","file":"INFO/Patterns/Creational/Factory Method pattern.md"},
+		{"id":"7ffc04836af7d724","type":"text","text":"\n$bikeFactory = new BikeFactory();\necho $bikeFactory->move();","x":139,"y":20,"width":355,"height":58},
+		{"id":"f99576e24db98854","x":-418,"y":20,"width":355,"height":58,"type":"text","text":"\n$carFactory = new CarFactory();\necho $carFactory->move();"},
+		{"id":"2819fca4c788c713","x":150,"y":-140,"width":344,"height":65,"type":"text","text":"BikeFactory"},
+		{"id":"857a6c7ea12be891","x":-418,"y":-140,"width":355,"height":65,"type":"text","text":"CarFactory"},
+		{"id":"eaf76be212b133cf","x":-161,"y":-280,"width":422,"height":60,"type":"text","text":"abstract VehicleFactory\n"},
+		{"id":"d28aa1991415456a","x":-420,"y":-440,"width":357,"height":50,"type":"text","text":"Car Implements Vehicle\n"},
+		{"id":"1ce8caa1f0c00649","x":109,"y":-440,"width":385,"height":50,"type":"text","text":"Bike Implements Vehicle\n"},
+		{"id":"8e7ab4698e5e47be","x":-100,"y":-600,"width":250,"height":50,"type":"text","text":"interface Vehicle"}
+	],
+	"edges":[
+		{"id":"b24f301b098496eb","fromNode":"d28aa1991415456a","fromSide":"top","toNode":"8e7ab4698e5e47be","toSide":"bottom"},
+		{"id":"8c063c21550a0daa","fromNode":"1ce8caa1f0c00649","fromSide":"top","toNode":"8e7ab4698e5e47be","toSide":"bottom"},
+		{"id":"6f3ae771ad27e9ac","fromNode":"f99576e24db98854","fromSide":"top","toNode":"857a6c7ea12be891","toSide":"bottom"},
+		{"id":"d122d5906cf00097","fromNode":"7ffc04836af7d724","fromSide":"top","toNode":"2819fca4c788c713","toSide":"bottom"},
+		{"id":"3bfbadf9cfa8e5ec","fromNode":"2819fca4c788c713","fromSide":"top","toNode":"eaf76be212b133cf","toSide":"right"},
+		{"id":"93e9258adddee661","fromNode":"857a6c7ea12be891","fromSide":"top","toNode":"eaf76be212b133cf","toSide":"left"},
+		{"id":"62154f65ff667c0b","fromNode":"eaf76be212b133cf","fromSide":"bottom","toNode":"857a6c7ea12be891","toSide":"right"},
+		{"id":"1d85260495c3bafd","fromNode":"eaf76be212b133cf","fromSide":"bottom","toNode":"2819fca4c788c713","toSide":"left"},
+		{"id":"8b197e6553355c48","fromNode":"2819fca4c788c713","fromSide":"right","toNode":"1ce8caa1f0c00649","toSide":"right"},
+		{"id":"5004a9cb6fd140ee","fromNode":"857a6c7ea12be891","fromSide":"left","toNode":"d28aa1991415456a","toSide":"left"}
+	]
+}

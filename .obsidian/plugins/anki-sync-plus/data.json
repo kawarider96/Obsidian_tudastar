@@ -1,0 +1,12 @@
+{
+  "targetFolder": "Anki",
+  "attachmentsFolder": "images",
+  "regexDisplay": "",
+  "ignoreTagsDisplay": "",
+  "excludeTagsDisplay": "",
+  "defaultDeck": "Dev",
+  "ignoreTags": [],
+  "excludeTags": [],
+  "excalidrawSupportEnabled": false,
+  "excalidrawFolder": ""
+}

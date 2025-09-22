@@ -1,3 +1,6 @@
+---
+cover: "[[adapter_pattern_cover.png]]"
+---
 # Adapter pattern
 
 Az Adapter minta átalakítja egy osztály interfészét, hogy egy másik rendszer elvárásainak megfeleljen.

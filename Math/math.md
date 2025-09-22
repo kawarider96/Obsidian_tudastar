@@ -1,0 +1,2 @@
+[[Szinusz]]
+[[Keresztbeszorzás]]
