@@ -1,0 +1,119 @@
+{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel0 \b \fs36 \u55358?\u56809? Jegyzet: V\u225?ltoz\u243?k l\u233?trehoz\u225?sa C nyelvben\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 \u55357?\u56633? Alapfogalom\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 A {\b v\u225?ltoz\u243?} egy n\u233?vvel ell\u225?tott mem\u243?riahely, amely adatokat t\u225?rol egy adott t\u237?pusban.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 \u55357?\u56633? Szintaxis\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \f1 t\u237?pus v\u225?ltoz\u243?n\u233?v = \u233?rt\u233?k;\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel2 \b \fs28 P\u233?ld\u225?k:\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \f1 int szam = 10;         // eg\u233?sz sz\u225?m\line
+float ar = 19.99;      // lebeg\u337?pontos sz\u225?m\line
+char betu = 'A';       // karakter\line
+double hossz = 3.14159;// nagyobb pontoss\u225?g\u250? lebeg\u337?pontos\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 \u55357?\u56633? V\u225?ltoz\u243?k l\u233?trehoz\u225?sa \u233?s haszn\u225?lata\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \f1 #include <stdio.h>\line
+\line
+int main() \{\line
+    int eletkor = 25;\line
+    printf("Az eletkor: %d\\n", eletkor);\line
+    return 0;\line
+\}\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 A {\f1 printf}-ben a {\f1 %d}, {\f1 %f}, {\f1 %c} stb. {\b form\u225?tum specifik\u225?tor} hat\u225?rozza meg, milyen t\u237?pus\u250? adatot \u237?runk ki.\par}
+{
+\trowd \trgaph120
+\clbrdrb\brdrs\cellx4320\clbrdrb\brdrs\cellx8640
+\trkeep\intbl
+{
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 T\u237?pus\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Specifik\u225?tor\par}
+\cell}
+}
+\intbl\row}
+{
+\trowd \trgaph120
+\cellx4320\cellx8640
+\trkeep\intbl
+{
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 int\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 %d\par}
+\cell}
+}
+\intbl\row}
+{
+\trowd \trgaph120
+\cellx4320\cellx8640
+\trkeep\intbl
+{
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 float\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 %f\par}
+\cell}
+}
+\intbl\row}
+{
+\trowd \trgaph120
+\cellx4320\cellx8640
+\trkeep\intbl
+{
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 char\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 %c\par}
+\cell}
+}
+\intbl\row}
+{
+\trowd \trgaph120
+\cellx4320\cellx8640
+\trkeep\intbl
+{
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 double\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 %lf\par}
+\cell}
+}
+\intbl\row}
+{\pard \ql \f0 \sa180 \li0 \fi0 \par}
+{\pard \qc \f0 \sa180 \li0 \fi0 \emdash\emdash\emdash\emdash\emdash\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 \u55357?\u56633? Dinamikusan v\u225?ltoz\u243? m\u233?ret\u369? t\u246?mb l\u233?trehoz\u225?sa\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 A C-ben a {\b statikus t\u246?mb} m\u233?rete fix:\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \f1 int tomb[5];\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Ez mindig 5 elem\u369? lesz.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Ha {\b dinamikusan} szeretn\u233?nk l\u233?trehozni (fut\u225?sid\u337?ben v\u225?ltoz\u243? m\u233?rettel), akkor a {\b malloc()} vagy {\b calloc()} f\u252?ggv\u233?nyeket haszn\u225?ljuk.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel2 \b \fs28 P\u233?lda \u8211- dinamikus t\u246?mb:\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \f1 #include <stdio.h>\line
+#include <stdlib.h>\line
+\line
+int main() \{\line
+    int meret;\line
+    printf("Add meg a tomb meretet: ");\line
+    scanf("%d", &meret);\line
+\line
+    int *tomb = (int *)malloc(meret * sizeof(int)); // mem\u243?riafoglal\u225?s\line
+\line
+    if (tomb == NULL) \{\line
+        printf("Nem siker\u252?lt a memoriafoglalas!\\n");\line
+        return 1;\line
+    \}\line
+\line
+    for (int i = 0; i < meret; i++) \{\line
+        printf("%d. elem: ", i + 1);\line
+        scanf("%d", &tomb[i]);\line
+    \}\line
+\line
+    printf("Tomb elemei: ");\line
+    for (int i = 0; i < meret; i++) \{\line
+        printf("%d ", tomb[i]);\line
+    \}\line
+    printf("\\n");\line
+\line
+    free(tomb); // felszabad\u237?t\u225?s k\u246?telez\u337?!\line
+    return 0;\line
+\}\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel2 \b \fs28 \u55357?\u56536? Magyar\u225?zat\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab {\f1 malloc(n * sizeof(int))} \u8594? lefoglal n darab {\f1 int} m\u233?ret\u369? mem\u243?ri\u225?t.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab {\f1 free(pointer)} \u8594? felszabad\u237?tja a lefoglalt mem\u243?ri\u225?t.\sa180\par}
+}

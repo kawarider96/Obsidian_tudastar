@@ -1,5 +1,3 @@
-# Abstraction (Absztrakció)
-
 Az absztrakció lényege, hogy a **lényeges részleteket megtartjuk**, a többit elrejtjük.
 
 ## Példa

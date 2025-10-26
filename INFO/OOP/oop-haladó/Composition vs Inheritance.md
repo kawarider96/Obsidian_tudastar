@@ -1,5 +1,3 @@
-# Composition vs Inheritance
-
 ## Öröklés
 
 Egy osztály egy másikból származik → fix, hierarchikus kapcsolat

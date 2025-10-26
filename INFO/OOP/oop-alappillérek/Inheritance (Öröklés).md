@@ -1,5 +1,3 @@
-# Inheritance (Öröklés)
-
 Az öröklés lehetővé teszi, hogy egy osztály átvegye egy másik osztály viselkedését és attribútumait.
 
 ## Példa

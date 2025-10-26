@@ -1,5 +1,3 @@
-# Konstruktorok (__init__, constructor)
-
 A konstruktor egy speciális metódus, amely automatikusan lefut, amikor egy objektum példányosításra kerül.
 
 ## Pythonban: `__init__`

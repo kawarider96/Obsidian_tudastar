@@ -1,5 +1,3 @@
-# Encapsulation (Adatrejtés)
-
 Az adatrejtés célja, hogy az objektum belső állapotát elrejtsük a külvilág elől, és csak ellenőrzött módon engedjük hozzáférni.
 
 ## Lényege

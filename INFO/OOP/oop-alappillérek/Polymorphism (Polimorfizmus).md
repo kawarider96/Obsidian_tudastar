@@ -1,5 +1,3 @@
-# Polymorphism (Polimorfizmus)
-
 A polimorfizmus lehetővé teszi, hogy különböző objektumok **ugyanazt a metódust** hívják meg, és a saját implementációjuk fusson le.
 
 ## Példa

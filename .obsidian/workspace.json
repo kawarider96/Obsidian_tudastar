@@ -4,21 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "d448f00ef9e497b1",
+        "id": "e923d61aeef3321f",
         "type": "tabs",
         "children": [
           {
-            "id": "513fc5b25029151c",
+            "id": "674651e7139d6698",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Lineáris algebra/Fok és Radián.md",
+                "file": "INFO/C/ciklusok.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fok és Radián"
+              "title": "ciklusok"
+            }
+          },
+          {
+            "id": "9680c2d5415148fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INFO/C/könyvtárak/stdio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "stdio"
+            }
+          },
+          {
+            "id": "6ec0e91b69ed2edb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INFO/C/szovegkezeles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "szovegkezeles"
+            }
+          },
+          {
+            "id": "bf3faf954866ccc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INFO/C/memoriafoglalas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "memoriafoglalas"
             }
           }
         ]
@@ -163,55 +205,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "513fc5b25029151c",
+  "active": "674651e7139d6698",
   "lastOpenFiles": [
-    "Math/Lineáris algebra/SzinuszAzonossagok.md",
-    "Math/Lineáris algebra/Szinusz.md",
-    "Math/Lineáris algebra/Keresztbeszorzás.md",
-    "Math/Lineáris algebra/Fok és Radián.md",
-    "Math/Digitális technika/Számrendszerek.md",
+    "INFO/C/könyvtárak/stdio.md",
+    "INFO/C/C_UTF8_Windows_console.md",
+    "INFO/C/ciklusok.md",
+    "INFO/C/memoriafoglalas.md",
+    "INFO/C/szovegkezeles.md",
+    "INFO/C/valtozok.md",
+    "INFO/C/pointerek.md",
+    "INFO/C/valtozok.rtf",
+    "INFO/C/stdout adatfolyam (képernyő).md",
+    "INFO/C/stdin adatfolyam (beolvasás).md",
+    "INFO/C/könyvtárak",
+    "INFO/C/iterations",
+    "Math/Digitális technika/decimalis-binaris-atvaltas.md",
+    "INFO/C",
+    "Math/Digitális technika/binaris-osszeadas.md",
+    "Math/Digitális technika/binaris-kivonas.md",
     "Math/Digitális technika/Oktális.md",
     "Math/Digitális technika/Hexadecimális.md",
-    "Math/Digitális technika/Decimális.md",
     "Math/Digitális technika/Bináris.md",
-    "Math/math.md",
-    "Math/Lineáris algebra/Szinusz_refactored.md",
-    "Math/Untitled",
+    "Math/Digitális technika/Decimális.md",
+    "INFO/Informatika alapjai/CPU + RAM/Register - RDX.md",
+    "INFO/Informatika alapjai/CPU + RAM/AGU.md",
+    "INFO/Informatika alapjai/CPU + RAM/CPU + RAM FOLYAMATÁBRA.canvas",
+    "INFO/Informatika alapjai/CPU + RAM",
+    "INFO/Informatika alapjai/CPU + RAM/Register - RSP.md",
+    "INFO/Informatika alapjai/CPU + RAM/Register - RIP(64bit), EIP(32bit), IP(16bit).md",
+    "Register - RIP(64bit), EIP(32bit), IP(16bit) (1).md",
+    "INFO/Informatika alapjai/CPU + RAM/Register - RCX.md",
+    "INFO/Informatika alapjai/CPU + RAM/Register - RDI.md",
+    "INFO/Informatika alapjai/CPU + RAM/Register - RBX.md",
+    "INFO/Informatika alapjai/CPU + RAM/LSU.md",
+    "INFO/Informatika alapjai/CPU + RAM/FPU.md",
+    "Math/Számítástudomány",
+    "Math/Trigonometria",
+    "Math/Lineáris algebra/Mátrixok",
+    "Math/Lineáris algebra/Vektorok",
+    "images/szinusz_grafikon.png",
     "images/szinusz_abra.png",
     "Pasted image 20250922202221.png",
     "images/szinusz_minta.png",
-    "Untitled.canvas",
     "Pasted image 20250921123015.png",
-    "INFO/OOP/oop-haladó/Composition vs Inheritance.md",
-    "INFO/PostgreeSQL/függvények/Idő és dátumfüggvények.md",
     "images/Bináris-_oktális.png",
     "images/Bináris-_hexadecimális.png",
     "images/Bináris-_decimális.png",
-    "INFO/jotai.md",
     "Math/Digitális technika",
-    "Math/Lineáris algebra",
-    "Math",
-    "BASES/Patterns.base",
     "images/adapter_pattern_cover.png",
-    "images/Nincs megerősítve 746084.crdownload",
-    "Untitled.md",
-    "BASES",
-    "INFO/Patterns/Creational/Untitled.base",
-    "INFO/Patterns/Untitled.base",
     "images/abstract_factory_cover.png",
-    "INFO/Patterns/Creational/Abstract Factory pattern.md",
-    "images/Nincs megerősítve 864989.crdownload",
-    "images/Pasted image 20250609123213.png",
-    "INFO/Python/python-class-features/Index.md",
-    "INFO/Python/python-class-features/Python Class Decorators.md",
-    "INFO/Python/python-class-features/Python Abstract Classes.md",
-    "INFO/Adatszerkezetek/Adatszerkezetek.md",
-    "INFO/Adatszerkezetek/útmutató/Adatszerkezetek összehasonlítása.md",
-    "INFO/Adatszerkezetek/alap adatszerkezetek/Tuple (immutábilis lista).md",
-    "INFO/Adatszerkezetek/alap adatszerkezetek/Szótár (Dict - Map).md",
-    "INFO/Adatszerkezetek/alap adatszerkezetek/Lista (List).md",
-    "INFO/Adatszerkezetek/alap adatszerkezetek/Halmaz (Set).md",
-    "INFO/PostgreeSQL/Szintaxis példák/Tábla létrehozása - CREATE TABLE.md",
     "INFO/Patterns/Canvas/FactoryMethod.canvas",
     "Névtelen.canvas",
     "Névtelen 1.canvas"

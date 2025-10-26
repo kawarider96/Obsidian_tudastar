@@ -1,5 +1,3 @@
-# Osztály és példány (Class vs Instance)
-
 Az **osztály** (class) egy sablon, amely leírja, hogyan nézzen ki és viselkedjen egy adott típusú objektum. A **példány** (instance) az osztály alapján létrehozott konkrét objektum.
 
 ## Példa
