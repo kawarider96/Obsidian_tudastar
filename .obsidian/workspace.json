@@ -4,63 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "e923d61aeef3321f",
+        "id": "77f3d077fa32f83f",
         "type": "tabs",
         "children": [
           {
-            "id": "674651e7139d6698",
+            "id": "4917aaac934242c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INFO/C/ciklusok.md",
+                "file": "Obsidian/Markdown elemek.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ciklusok"
+              "title": "Markdown elemek"
             }
           },
           {
-            "id": "9680c2d5415148fd",
+            "id": "4e0b6f10b39fa058",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INFO/C/könyvtárak/stdio.md",
+                "file": "Obsidian/components/Math LaTex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "stdio"
-            }
-          },
-          {
-            "id": "6ec0e91b69ed2edb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INFO/C/szovegkezeles.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "szovegkezeles"
-            }
-          },
-          {
-            "id": "bf3faf954866ccc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "INFO/C/memoriafoglalas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "memoriafoglalas"
+              "title": "Math LaTex"
             }
           }
         ]
@@ -194,66 +166,66 @@
   "left-ribbon": {
     "hiddenItems": {
       "bases:Create new base": false,
-      "anki-sync-plus:Add/Update cards for all notes of selected folder on Anki": false,
-      "anki-sync-plus:Add/Update card for current note on Anki": false,
-      "anki-sync-plus:Delete card for  current note on Anki": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "anki-sync-plus:Add/Update cards for all notes of selected folder on Anki": false,
+      "anki-sync-plus:Add/Update card for current note on Anki": false,
+      "anki-sync-plus:Delete card for  current note on Anki": false
     }
   },
-  "active": "674651e7139d6698",
+  "active": "4917aaac934242c0",
   "lastOpenFiles": [
+    "Obsidian/components/Mermaid diagramok.md",
+    "Obsidian/Markdown elemek.md",
+    "Obsidian/components/Linkek.md",
+    "Obsidian/components/Math LaTex.md",
+    "Obsidian/components/HTML.md",
+    "Obsidian/components/Highlight.md",
+    "Obsidian/components/Komment.md",
+    "Obsidian/components/Felsorolások.md",
+    "Obsidian/components/Táblázat.md",
+    "Obsidian/components/Meta adatok.md",
+    "Obsidian/components/Kód blokk.md",
+    "Obsidian/components/Idézet.md",
+    "Obsidian/components/Félkövér, dőlt, aláhúzott.md",
+    "Obsidian/components/Elválasztó vonal.md",
+    "Obsidian/components/Címsorok.md",
+    "Obsidian/components/Checkbox.md",
+    "Obsidian/components/Calloutok.md",
+    "Obsidian/components",
+    "images/obsidian.jpeg",
+    "INFO/Patterns/Structural/Adapter pattern.md",
+    "images/abstract_factory_cover.png",
+    "INFO/Docker/Dockerfile.md",
+    "INFO/Docker/Scratch.md",
+    "Obsidian",
+    "INFO/Docker/Image.md",
+    "INFO/Patterns/Architekturális minták (Architectural).md",
+    "INFO/Docker",
+    "BASES/Patterns.base",
+    "INFO/Patterns/Creational/Abstract Factory pattern.md",
+    "images/architectural_pattern.png",
+    "images/adapter_pattern_cover.png",
+    "INFO/C/ciklusok.md",
     "INFO/C/könyvtárak/stdio.md",
     "INFO/C/C_UTF8_Windows_console.md",
-    "INFO/C/ciklusok.md",
-    "INFO/C/memoriafoglalas.md",
-    "INFO/C/szovegkezeles.md",
-    "INFO/C/valtozok.md",
-    "INFO/C/pointerek.md",
     "INFO/C/valtozok.rtf",
-    "INFO/C/stdout adatfolyam (képernyő).md",
-    "INFO/C/stdin adatfolyam (beolvasás).md",
     "INFO/C/könyvtárak",
     "INFO/C/iterations",
-    "Math/Digitális technika/decimalis-binaris-atvaltas.md",
     "INFO/C",
-    "Math/Digitális technika/binaris-osszeadas.md",
-    "Math/Digitális technika/binaris-kivonas.md",
-    "Math/Digitális technika/Oktális.md",
-    "Math/Digitális technika/Hexadecimális.md",
-    "Math/Digitális technika/Bináris.md",
-    "Math/Digitális technika/Decimális.md",
-    "INFO/Informatika alapjai/CPU + RAM/Register - RDX.md",
-    "INFO/Informatika alapjai/CPU + RAM/AGU.md",
     "INFO/Informatika alapjai/CPU + RAM/CPU + RAM FOLYAMATÁBRA.canvas",
     "INFO/Informatika alapjai/CPU + RAM",
-    "INFO/Informatika alapjai/CPU + RAM/Register - RSP.md",
-    "INFO/Informatika alapjai/CPU + RAM/Register - RIP(64bit), EIP(32bit), IP(16bit).md",
-    "Register - RIP(64bit), EIP(32bit), IP(16bit) (1).md",
-    "INFO/Informatika alapjai/CPU + RAM/Register - RCX.md",
-    "INFO/Informatika alapjai/CPU + RAM/Register - RDI.md",
-    "INFO/Informatika alapjai/CPU + RAM/Register - RBX.md",
-    "INFO/Informatika alapjai/CPU + RAM/LSU.md",
-    "INFO/Informatika alapjai/CPU + RAM/FPU.md",
     "Math/Számítástudomány",
-    "Math/Trigonometria",
-    "Math/Lineáris algebra/Mátrixok",
-    "Math/Lineáris algebra/Vektorok",
     "images/szinusz_grafikon.png",
     "images/szinusz_abra.png",
     "Pasted image 20250922202221.png",
     "images/szinusz_minta.png",
     "Pasted image 20250921123015.png",
     "images/Bináris-_oktális.png",
-    "images/Bináris-_hexadecimális.png",
-    "images/Bináris-_decimális.png",
-    "Math/Digitális technika",
-    "images/adapter_pattern_cover.png",
-    "images/abstract_factory_cover.png",
     "INFO/Patterns/Canvas/FactoryMethod.canvas",
     "Névtelen.canvas",
     "Névtelen 1.canvas"

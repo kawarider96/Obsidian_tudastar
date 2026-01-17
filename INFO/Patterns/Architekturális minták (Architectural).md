@@ -1,3 +1,6 @@
+---
+cover: "[[architectural_pattern.png]]"
+---
 # Architekturális minták (Architectural)
 
 Alkalmazások, rendszerek vagy komponensek nagyobb szintű szervezési sémái.

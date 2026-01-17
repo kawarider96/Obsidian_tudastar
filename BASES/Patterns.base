@@ -7,9 +7,9 @@ views:
     order:
       - file.name
       - file.links
-    cardSize: 530
+    cardSize: 420
     image: note.cover
-    imageAspectRatio: 0.65
+    imageAspectRatio: 0.55
   - type: table
     name: Table
     filters:
