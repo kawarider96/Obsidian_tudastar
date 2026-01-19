@@ -1,9 +1,9 @@
 [[math]], [[Matrixok]], #matek
 
 Átváltások:
-[[Bináris|bináris -> decimális]]
-[[Bináris|bináris -> hexadecimális]]
-[[Bináris|bináris -> oktális]]
+[[számrendszer átváltások|bináris -> decimális]]
+[[számrendszer átváltások|bináris -> hexadecimális]]
+[[számrendszer átváltások|bináris -> oktális]]
 [[Decimális|decimális -> bináris]]
 [[Decimális|decimális -> hexadecimális]]
 [[Decimális|decimális -> oktális]]

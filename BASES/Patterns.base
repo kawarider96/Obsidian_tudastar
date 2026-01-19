@@ -1,13 +1,13 @@
 views:
   - type: cards
-    name: Notes
+    name: Patterns
     filters:
       and:
         - file.inFolder("INFO/Patterns")
     order:
       - file.name
       - file.links
-    cardSize: 420
+    cardSize: 280
     image: note.cover
     imageAspectRatio: 0.55
   - type: table
@@ -18,3 +18,4 @@ views:
     order:
       - file.name
       - cover
+      - related

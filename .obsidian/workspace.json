@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "77f3d077fa32f83f",
+        "id": "7244c80d7705cfa2",
         "type": "tabs",
         "children": [
           {
-            "id": "4917aaac934242c0",
+            "id": "d857a8642e67c82e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Markdown elemek.md",
+                "file": "INFO/NextJS/components/Routing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Markdown elemek"
-            }
-          },
-          {
-            "id": "4e0b6f10b39fa058",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/components/Math LaTex.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Math LaTex"
+              "title": "Routing"
             }
           }
         ]
@@ -67,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#relációs_adatbázis",
+                "query": "tag:átvátlás",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Visszahivatkozások"
+              "title": "Backlinks"
             }
           },
           {
@@ -130,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Kimenő linkek"
+              "title": "Outgoing links"
             }
           },
           {
@@ -160,7 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 270.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -171,62 +157,62 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "anki-sync-plus:Add/Update cards for all notes of selected folder on Anki": false,
-      "anki-sync-plus:Add/Update card for current note on Anki": false,
-      "anki-sync-plus:Delete card for  current note on Anki": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "4917aaac934242c0",
+  "active": "d857a8642e67c82e",
   "lastOpenFiles": [
-    "Obsidian/components/Mermaid diagramok.md",
-    "Obsidian/Markdown elemek.md",
-    "Obsidian/components/Linkek.md",
-    "Obsidian/components/Math LaTex.md",
-    "Obsidian/components/HTML.md",
-    "Obsidian/components/Highlight.md",
-    "Obsidian/components/Komment.md",
-    "Obsidian/components/Felsorolások.md",
-    "Obsidian/components/Táblázat.md",
-    "Obsidian/components/Meta adatok.md",
-    "Obsidian/components/Kód blokk.md",
-    "Obsidian/components/Idézet.md",
-    "Obsidian/components/Félkövér, dőlt, aláhúzott.md",
-    "Obsidian/components/Elválasztó vonal.md",
-    "Obsidian/components/Címsorok.md",
-    "Obsidian/components/Checkbox.md",
-    "Obsidian/components/Calloutok.md",
-    "Obsidian/components",
-    "images/obsidian.jpeg",
-    "INFO/Patterns/Structural/Adapter pattern.md",
-    "images/abstract_factory_cover.png",
-    "INFO/Docker/Dockerfile.md",
-    "INFO/Docker/Scratch.md",
-    "Obsidian",
+    "INFO/NextJS/components/Map.md",
+    "INFO/NextJS/components/Routing.md",
+    "INFO/NextJS/components/Install.md",
+    "INFO/NextJS/NextJS.md",
+    "Obsidian/Obsidian.md",
+    "INFO/NextJS/components",
+    "INFO/Adatszerkezetek/alap adatszerkezetek/haladó adatszerkezetek/Heap (Prioritási sor).md",
+    "INFO/NextJS",
+    "INFO/Adatszerkezetek/alap adatszerkezetek/haladó adatszerkezetek/Hash tábla és ütközéskezelés.md",
+    "INFO/Adatszerkezetek/alap adatszerkezetek/haladó adatszerkezetek/Gráf (Graph).md",
+    "INFO/Algoritmusok/speciális témák/Interjús feladat típusok.md",
+    "INFO/Algoritmusok/speciális témák/Algoritmusok összehasonlítása.md",
+    "INFO/Algoritmusok/speciális témák/Algoritmikus gondolkodás fejlesztése.md",
+    "INFO/Algoritmusok/alapfogalmak/Mi az az algoritmus.md",
+    "INFO/Algoritmusok/alapfogalmak/Pszeudokód és alap szintaxis.md",
+    "INFO/Algoritmusok/alapfogalmak/Idő- és memória-komplexitás (Big O).md",
+    "INFO/Adatszerkezetek/Adatszerkezetek.md",
+    "INFO/Adatszerkezetek/alap adatszerkezetek/Lista (List).md",
+    "INFO/Adatszerkezetek/alap adatszerkezetek/Halmaz (Set).md",
+    "INFO/Docker/components/Dockerfile.md",
+    "INFO/Adatbázisok/PostgreeSQL",
+    "INFO/Adatbázisok",
+    "INFO/Docker/components/Docker YML.md",
+    "INFO/Docker/Docker.md",
+    "INFO/Docker/components/Docker container.md",
+    "INFO/Docker/components/dockerignore.md",
+    "INFO/Docker/components",
+    "INFO/Docker/components/Scratch.md",
+    "INFO/Docker/components/Docker image.md",
     "INFO/Docker/Image.md",
-    "INFO/Patterns/Architekturális minták (Architectural).md",
-    "INFO/Docker",
+    "INFO/Informatika.md",
+    "Math/Lineáris algebra/components",
+    "INFO/Python/components",
+    "INFO/Adatbázisok/PostgreeSQL/components",
     "BASES/Patterns.base",
-    "INFO/Patterns/Creational/Abstract Factory pattern.md",
-    "images/architectural_pattern.png",
-    "images/adapter_pattern_cover.png",
-    "INFO/C/ciklusok.md",
-    "INFO/C/könyvtárak/stdio.md",
-    "INFO/C/C_UTF8_Windows_console.md",
-    "INFO/C/valtozok.rtf",
-    "INFO/C/könyvtárak",
-    "INFO/C/iterations",
-    "INFO/C",
+    "FactoryMethod.canvas",
+    "INFO/Patterns/components/FactoryMethod.canvas",
+    "Math/Digitális technika/components",
+    "Untitled.canvas",
+    "images/commander.png",
+    "images/MVC.png",
+    "images/microservices.png",
+    "images/layered.png",
+    "images/event-driven.png",
+    "images/ddo.png",
+    "images/client-server.png",
+    "images/clean_arch.png",
+    "Abstract factory pattern.canvas",
+    "images/obsidian.jpeg",
+    "images/abstract_factory_cover.png",
     "INFO/Informatika alapjai/CPU + RAM/CPU + RAM FOLYAMATÁBRA.canvas",
-    "INFO/Informatika alapjai/CPU + RAM",
-    "Math/Számítástudomány",
-    "images/szinusz_grafikon.png",
-    "images/szinusz_abra.png",
-    "Pasted image 20250922202221.png",
-    "images/szinusz_minta.png",
-    "Pasted image 20250921123015.png",
-    "images/Bináris-_oktális.png",
-    "INFO/Patterns/Canvas/FactoryMethod.canvas",
     "Névtelen.canvas",
     "Névtelen 1.canvas"
   ]

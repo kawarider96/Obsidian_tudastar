@@ -9,6 +9,7 @@ tags:
   - latex
 status: complete
 created: 2026-01-17
+related: "[[Obsidian]]"
 ---
 ## Matek blokk
 ```markdown
